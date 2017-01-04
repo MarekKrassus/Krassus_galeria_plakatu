@@ -72,6 +72,16 @@ a:hover {
         display: block;
       }
 
+.footer {
+  font-family: Verdana;
+  font-size: 0.7em;
+  text-align: center;
+  font-weight: bold;
+  margin-left: 6%;
+  margin-right: 6%;
+  display: inline-block;
+}
+
 nav {
   font-family: Verdana;
   text-align: left;
